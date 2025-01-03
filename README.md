@@ -16,6 +16,8 @@ Ayrıca, Mel-Frekans Kepstral Katsayıları (MFCC) çıkararak, ses dosyalarınd
 Model Eğitimi ve Sonuçlar
 Elde edilen verilerle, hüzünlü, neşeli ve agresif duygu türlerini sınıflandırabilen bir model geliştirdim. 27.000'den fazla 15 saniyelik ses segmenti kullanılarak model eğitildi. Proje sonunda, bu duygu sınıflarını başarıyla ayırt edebilen bir sınıflandırma sistemi elde edildi.
 
+Hubert,Wav2Vec,AST gibi ses transformatörleri bu verilerle eğitildi. Aralarında karşılaştırmalar yapılarak transformatörlerin veri eğitimlerinde başarı yüzdeleri hesaplandı.
+
 Sonuç
 Bu projede elde edilen sonuçlar, duygu analizi teknolojilerinin sadece müzik verileriyle bile etkili bir şekilde geliştirilebileceğini gösterdi. Ayrıca, bu tür sistemlerin, gelecekte müşteri ses verileriyle çalışabilecek uygulamalara dönüştürülebileceği potansiyelini ortaya koydu. Müşteri ilişkilerinde duygusal zeka uygulamalarının artması, işletmelere daha empatik ve etkili bir hizmet sunma imkanı sağlayacaktır.
 
